@@ -1,0 +1,3 @@
+Instructions: 
+
+These are segmented .zip files, extract with 7-zip preferably or Keka/The Unarchiver on macOS. 
